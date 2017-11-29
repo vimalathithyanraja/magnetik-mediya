@@ -1,0 +1,144 @@
+
+        .body-initial {
+            background-color: rgba(255, 255, 255, 1);
+            background-image: url('../assets/1501629_704645196235323_1937658082_o%20(1').jpg'); 
+
+        }
+        
+        .silex-id-1478366444112-1 {
+            top: 100px;
+            left: NaNpx;
+            background-color: rgba(0, 0, 0, 1);
+            min-width: 1200px;
+        }
+        
+        .silex-id-1478366444112-0 {
+            min-height: 100px;
+            background-color: rgba(228, 17, 124, 1);
+            width: 1200px;
+            background-image: url('../assets/1501629_704645196235323_1937658082_o%20(1').jpg'); 
+
+        }
+        
+        .silex-id-1511932311969-3 {
+            width: 100px;
+            min-height: 100px;
+            top: 100px;
+            left: 490px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1511932311969-3 {
+                left: 19px;
+                top: 15px;
+                width: 405px;
+                min-height: 70px;
+            }
+        }
+        
+        .silex-id-1474394621033-3 {
+            top: 5px;
+            left: 0px;
+            background-color: rgba(0, 0, 0, 1);
+            min-width: 1200px;
+            background-image: url('../assets/1501629_704645196235323_1937658082_o%20(1').jpg'); 
+
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1474394621033-3 {
+                top: 181px;
+                left: 0px;
+            }
+        }
+        
+        .silex-id-1474394621032-2 {
+            min-height: 600px;
+            background-color: rgba(224, 0, 82, 0.8901960784313725);
+            width: 1200px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1474394621032-2 {
+                min-height: 556px;
+            }
+        }
+        
+        .silex-id-1511931559593-0 {
+            width: 189px;
+            min-height: 176px;
+            top: 17px;
+            left: 201px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1511931559593-0 {
+                width: 212px;
+                min-height: 193px;
+                top: 903px;
+                left: 242px;
+            }
+        }
+        
+        .silex-id-1511932041542-1 {
+            width: 694px;
+            min-height: 82px;
+            top: 66px;
+            left: 416px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1511932041542-1 {
+                left: 23px;
+                top: 1185px;
+            }
+        }
+        
+        .silex-id-1478366450713-3 {
+            top: 100px;
+            left: NaNpx;
+            background-color: rgba(0, 0, 0, 1);
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1478366450713-3 {
+                top: 762px;
+                left: 0px;
+            }
+        }
+        
+        .silex-id-1478366450713-2 {
+            min-height: 100px;
+            background-color: transparent;
+            width: 1200px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1478366450713-2 {
+                min-height: 20px;
+            }
+        }
+        
+        .silex-id-1442914737143-3 {
+            min-height: 53px;
+            width: 349px;
+            top: 937px;
+            left: 366px;
+            background-color: rgba(106, 106, 106, 1);
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1442914737143-3 {
+                left: 117px;
+                top: 1575px;
+            }
+        }
+    
